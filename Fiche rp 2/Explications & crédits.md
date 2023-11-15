@@ -12,7 +12,7 @@ Pour modifier la taille des images, il suffit de modifier les balises "width" et
 
 **_⟶ Couleurs/tailles de police/police etc..._**
 
-Tout ce qui concerne le titre de la signature se trouve sous la class <b>"**.titrerpv2**"</b>. Vous pouvez y modifier la couleur (color: #CODECOULEUR;), la police (font-family: Nomdevotrepolice;), la taille de police (font-size:XXpx;).
+Tout ce qui concerne le titre de la fiche rp se trouve sous la class <b>"**.titrerpv2**"</b>. Vous pouvez y modifier la couleur (color: #CODECOULEUR;), la police (font-family: Nomdevotrepolice;), la taille de police (font-size:XXpx;).
 
 Même chose concernant la partie "texte rp" sous la class <b>"**.texterp**"</b>. Vous pouvez utiliser les mêmes balises citées plus haut et modifier également l'espace entre les lignes (line-height:XXX%;).
  <br/><br/>
