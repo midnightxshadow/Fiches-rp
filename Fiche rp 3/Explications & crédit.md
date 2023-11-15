@@ -12,7 +12,7 @@ Pour modifier la taille et le contenu des images, il suffit de modifier les bali
 
 **_⟶ Couleurs/tailles de police/police etc..._**
 
-Tout ce qui concerne le titre de la signature se trouve sous la class <b>"**.titlerp1**"</b>. Vous pouvez y modifier la couleur (color: #CODECOULEUR;), la police (font-family: Nomdevotrepolice;), la taille de police (font-size:XXpx;) etc... La partie "citation/lyrics" se trouve sous la class <b>".qrp1"</b>.
+Tout ce qui concerne le titre de la fiche rp se trouve sous la class <b>"**.titlerp1**"</b>. Vous pouvez y modifier la couleur (color: #CODECOULEUR;), la police (font-family: Nomdevotrepolice;), la taille de police (font-size:XXpx;) etc... La partie "citation/lyrics" se trouve sous la class <b>".qrp1"</b>.
 
 Même chose concernant la partie "texte rp" sous la class <b>"**..texterp1**"</b>. Vous pouvez utiliser les mêmes balises citées plus haut et modifier également l'espace entre les lignes (line-height:XXX%;) etc...
  <br/><br/>
